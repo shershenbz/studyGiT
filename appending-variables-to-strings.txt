@@ -1,0 +1,6 @@
+// Change code below this line
+const someAdjective = "124";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+console.log(someAdjective)
+console.log(myStr)

@@ -1,0 +1,7 @@
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
+lastName.length //8
+console.log("lastName".length);
+// Only change code below this line

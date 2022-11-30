@@ -1,0 +1,5 @@
+let myVar = 87;
+myVar++;
+// Only change code below this line
+myVar = myVar + 1;
+myVar = 88

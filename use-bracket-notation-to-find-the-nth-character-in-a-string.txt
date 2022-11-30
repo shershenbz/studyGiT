@@ -1,0 +1,5 @@
+// Setup
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2];
+// Only change code below this line
+console.log(thirdLetterOfLastName)

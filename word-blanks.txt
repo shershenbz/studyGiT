@@ -1,0 +1,8 @@
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+
+const wordBlanks =  myAdjective + " " + myNoun + " " + myAdverb + " and  carefully  " + myVerb + " .";
+console.log(wordBlanks)
